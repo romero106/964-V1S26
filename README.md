@@ -12,10 +12,9 @@
 | --------------- | -------------------------------------- |
 | **Universidad** | Universidad de San Carlos de Guatemala |
 | **Facultad**    | Facultad de Ingeniería                 |
-| **Período**     | Vacaciones Primer Semestre 2026        |
-| **Sección**     | A                                      |
-| **Catedrático** | Carlos Amílcar Lozano                  |
-| **Auxiliar**    | Carlos José Blanco Guzmán              |
+| **Escuela**     | Ciencias y Sistemas                    |
+| **Código**      | 0964                                   |
+| **Créditos**    | 4                                      |
 
 </div>
 
@@ -25,7 +24,7 @@
 
 Este repositorio reúne material seleccionado, revisado y organizado para estudiar el curso.
 
-A diferencia de un repositorio utilizado durante un semestre, el contenido aquí no pretende conservar tareas, actividades o entregas realizadas durante el curso. En vez de eso, se incluyen únicamente los recursos relevantes para **comprender, practicar, repasar o aplicar los conceptos estudiados**.
+A diferencia de un repositorio utilizado durante un semestre, el contenido aquí no pretende conservar tareas, actividades o entregas realizadas durante el curso. En vez de eso, se incluyen únicamente los recursos relevantes para **comprender, repasar o aplicar los conceptos estudiados**.
 
 > [!CAUTION]
 > Este material es mi recopilación académica personal y no busca reemplazar el programa, las clases ni la bibliografía correspondiente al curso.
@@ -63,13 +62,14 @@ El material se encuentra organizado por unidades y temas, siguiendo la estructur
 │   └── ...
 │
 ├── 📂 Recursos/
+│   ├── Bibliografía recomendada/
 │   ├── Presentaciones/ 
-│   └── Bibliografía recomendada/
+│   └── Programa del curso/
 │
 └── 📄 Programa del curso.md
 ```
 
-Para consultar el contenido programático completo, revisar el [programa del curso](Recursos/Programa%20del%20curso/Programa%20del%20curso.md).
+Para consultar el contenido detalladamente, revisar el [programa del curso](Recursos/Programa%20del%20curso/Programa%20del%20curso.md).
 
 ---
 
