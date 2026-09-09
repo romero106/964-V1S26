@@ -1,20 +1,19 @@
 # Organización Computacional
 
-> Material de estudio, consulta y referencia orientado al aprendizaje y repaso de los contenidos del curso Organización Computacional de la Facultad de Ingeniería de la Universidad de San Carlos de Guatemala.
+> Repositorio organizado para facilitar el estudio, repaso y consulta de los contenidos del curso **Organización Computacional**.
 
 ---
 
 <div align="center">
 
-### 🎓 Información del curso
+### 🏫 Información del curso
 
-| **Ítem**        | **Detalle**                            |
-| --------------- | -------------------------------------- |
-| **Universidad** | Universidad de San Carlos de Guatemala |
-| **Facultad**    | Facultad de Ingeniería                 |
-| **Escuela**     | Ciencias y Sistemas                    |
-| **Código**      | 0964                                   |
-| **Créditos**    | 4                                      |
+| **Información** | **Detalle**                |
+| :-------------- | :------------------------- |
+| **Código**      | `964`                      |
+| **Créditos**    | `A`                        |
+| **Escuela**     | Ciencias y Sistemas        |
+| **Área**        | Ciencias de la Computación |
 
 </div>
 
@@ -22,24 +21,22 @@
 
 ## 📖 Acerca de este repositorio
 
-Este repositorio reúne material seleccionado, revisado y organizado para estudiar el curso.
+A diferencia de un repositorio utilizado durante el semestre, aquí no se busca conservar actividades, tareas, prácticas, proyectos o entregas realizadas durante el curso. En su lugar, se incluyen únicamente recursos orientados al aprendizaje y comprensión de los temas del curso.
 
-A diferencia de un repositorio utilizado durante un semestre, el contenido aquí no pretende conservar tareas, actividades o entregas realizadas durante el curso. En vez de eso, se incluyen únicamente los recursos relevantes para **comprender, repasar o aplicar los conceptos estudiados**.
-
-> [!CAUTION]
+> [!IMPORTANT]
 > Este material es mi recopilación académica personal y no busca reemplazar el programa, las clases ni la bibliografía correspondiente al curso.
 
 ---
 
 ## 🎯 Objetivos
 
-Este repositorio tiene como objetivos:
+Este repositorio está pensado como un espacio de apoyo para el estudio y la consulta del curso, con el propósito de cumplir los siguientes objetivos:
 
-- Facilitar el estudio progresivo de los contenidos del curso.
-- Proporcionar material de consulta para el repaso de conceptos.
-- Reunir ejercicios y actividades seleccionadas que permitan poner en práctica los conocimientos adquiridos.
+- Facilitar el estudio progresivo del curso.
+- Proporcionar material para el repaso de conceptos.
+- Reunir ejercicios que permitan poner en práctica los conocimientos adquiridos.
 - Organizar los temas de manera que puedan consultarse individualmente cuando sea necesario.
-- Ofrecer material de apoyo a estudiantes que se encuentren aprendiendo estos contenidos por primera vez.
+- Ofrecer material de apoyo tanto para mí como para quienes estén estudiando el curso por primera vez.
 
 ---
 
@@ -63,13 +60,14 @@ El material se encuentra organizado por unidades y temas, siguiendo la estructur
 │
 ├── 📂 Recursos/
 │   ├── Bibliografía recomendada/
-│   ├── Presentaciones/ 
 │   └── Programa del curso/
+│       ├── 📄 Programa del curso.md
+│       └── 📑 Programa del curso.pdf
 │
-└── 📄 Programa del curso.md
+└── 📄 README.md
 ```
 
-Para consultar el contenido detalladamente, revisar el [programa del curso](Recursos/Programa%20del%20curso/Programa%20del%20curso.md).
+La estructura detallada de los contenidos puede consultarse en el [programa del curso](Recursos/Programa%20del%20curso/Programa%20del%20curso.md).
 
 ---
 
@@ -93,14 +91,12 @@ El contenido de este repositorio fue elaborado utilizando como base distintas fu
 
 ## 🚧 Mantenimiento
 
-Este repositorio presenta una versión consolidada del material del curso, pero no necesariamente una versión definitiva.
-
-El contenido puede actualizarse en el futuro para:
+Este repositorio presenta una versión consolidada del material del curso, aunque su contenido puede actualizarse con el tiempo para:
 
 - Corregir errores.
 - Reorganizar temas.
 - Mejorar explicaciones.
-- Mejorar referencias.
+- Ampliar o actualizar referencias.
 - Simplificar contenido innecesariamente complejo.
 
 > [!NOTE]
@@ -112,11 +108,14 @@ El contenido puede actualizarse en el futuro para:
 
 Este repositorio fue elaborado con fines **académicos y educativos**. El material está pensado como una referencia complementaria para estudiantes y como recurso personal de consulta futura.
 
-Las explicaciones, ejemplos y organización del contenido pueden diferir de la forma en que el curso sea impartido en otros períodos académicos. Para información oficial sobre el curso, recomiendo consultar siempre el programa vigente y las indicaciones proporcionadas por los catedráticos.
+Las explicaciones y la organización de los contenidos pueden diferir de cómo se imparta el curso en otros períodos académicos. Por ese motivo, siempre recomiendo consultar el programa vigente y las indicaciones proporcionadas por los catedráticos.
 
 ---
 
-<p align="center">
-  Patricio Manuel Romero Castellanos<br>
-  <b>202504020</b>
-</p>
+<div align="center">
+
+### Patricio Manuel Romero Castellanos
+Universidad de San Carlos de Guatemala  
+Facultad de Ingeniería
+
+</div>
