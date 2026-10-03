@@ -8,12 +8,12 @@
 
 ### 🏫 Información del curso
 
-| **Información** | **Detalle**                |
-| :-------------- | :------------------------- |
-| **Código**      | `964`                      |
-| **Créditos**    | `A`                        |
-| **Escuela**     | Ciencias y Sistemas        |
-| **Área**        | Ciencias de la Computación |
+| **Ítem**     |                **Detalle** |
+| :----------- | -------------------------: |
+| **Código**   |                      `964` |
+| **Créditos** |                        `4` |
+| **Escuela**  |        Ciencias y Sistemas |
+| **Área**     | Ciencias de la Computación |
 
 </div>
 
@@ -26,7 +26,7 @@ A diferencia de un repositorio utilizado durante el semestre, aquí no se busca 
 > [!IMPORTANT]
 > Este material es mi recopilación académica personal y no busca reemplazar el programa, las clases ni la bibliografía correspondiente al curso.
 
----
+<!---
 
 ## 🎯 Objetivos
 
@@ -38,33 +38,35 @@ Este repositorio está pensado como un espacio de apoyo para el estudio y la con
 - Organizar los temas de manera que puedan consultarse individualmente cuando sea necesario.
 - Ofrecer material de apoyo tanto para mí como para quienes estén estudiando el curso por primera vez.
 
+--->
+
 ---
 
-## 🗂️ Organización del contenido
+## 📂 Organización del contenido
 
 El material se encuentra organizado por unidades y temas, siguiendo la estructura general del curso.
 
 ```text
 /
-├── 📂 Unidad 1/
+├── Unidad 1/
 │   ├── Tema 1.md
 │   ├── Tema 2.md
 │   ├── Tema 3.md
 │   └── ...
 │
-├── 📂 Unidad 2/
+├── Unidad 2/
 │   └── ...
 │
-├── 📂 Unidad 3/
+├── Unidad 3/
 │   └── ...
 │
-├── 📂 Recursos/
+├── Recursos/
 │   ├── Bibliografía recomendada/
 │   └── Programa del curso/
-│       ├── 📄 Programa del curso.md
-│       └── 📑 Programa del curso.pdf
+│       ├── Programa del curso.md
+│       └── Programa del curso.pdf
 │
-└── 📄 README.md
+└── README.md
 ```
 
 La estructura detallada de los contenidos puede consultarse en el [programa del curso](Recursos/Programa%20del%20curso/Programa%20del%20curso.md).
@@ -84,8 +86,8 @@ El contenido de este repositorio fue elaborado utilizando como base distintas fu
 
 ### Recursos principales
 
-- [📑 Programa oficial del curso](Recursos/Programa%20del%20curso/Programa%20del%20curso.pdf)
-- [📖 Lógica digital y diseño de computadores, 1ra Edición, por M. Morris Mano](Recursos/Bibliografía%20recomendada/Lógica%20digital%20y%20diseño%20de%20computadores,%201ra%20Edición,%20por%20M.%20Morris%20Mano.pdf)
+- [Programa oficial del curso](Recursos/Programa%20del%20curso/Programa%20del%20curso.pdf)
+- [Lógica digital y diseño de computadores, 1ra Edición, por M. Morris Mano](Recursos/Bibliografía%20recomendada/Lógica%20digital%20y%20diseño%20de%20computadores,%201ra%20Edición,%20por%20M.%20Morris%20Mano.pdf)
 
 ---
 
