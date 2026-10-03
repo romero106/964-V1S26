@@ -8,7 +8,7 @@
 
 ### 🏫 Información del curso
 
-| **Ítem**     |                **Detalle** |
+| **Ítem**     |            **Información** |
 | :----------- | -------------------------: |
 | **Código**   |                      `964` |
 | **Créditos** |                        `4` |
@@ -42,7 +42,7 @@ Este repositorio está pensado como un espacio de apoyo para el estudio y la con
 
 ---
 
-## 📂 Organización del contenido
+## 🗂️ Organización del contenido
 
 El material se encuentra organizado por unidades y temas, siguiendo la estructura general del curso.
 
@@ -73,16 +73,14 @@ La estructura detallada de los contenidos puede consultarse en el [programa del 
 
 ---
 
-## 📚 Fuentes y referencias
+## ⛲ Fuentes y referencias
 
 El contenido de este repositorio fue elaborado utilizando como base distintas fuentes académicas y materiales relacionados con el curso, tales como:
 
 - Programa oficial del curso.
 - Bibliografía recomendada.
-- Presentaciones y material utilizado durante las clases.
 - Material proporcionado por catedráticos y auxiliares.
 - Documentación técnica oficial.
-- Recursos académicos complementarios.
 
 ### Recursos principales
 
